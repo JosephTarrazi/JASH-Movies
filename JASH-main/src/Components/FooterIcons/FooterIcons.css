@@ -1,0 +1,16 @@
+.d-space-around {
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.icons {
+  margin: 10px;
+}
+.social-media-icons {
+  color: #8ad4ff;
+}
+.social-media-icons:hover {
+  color: #6babcf;
+}

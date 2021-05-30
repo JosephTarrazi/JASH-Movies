@@ -1,0 +1,14 @@
+.main {
+  padding-left: 80px;
+  width:auto;
+  position: relative;
+  margin-top: 78px;
+  display: flex;
+  align-items: center;
+  -ms-grid-column-align: center;
+}
+
+
+
+
+

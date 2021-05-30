@@ -1,0 +1,49 @@
+.navbar {
+  background-color: black;
+}
+.o-dropdown-menu {
+  background-color: black;
+  margin-left: 20px;
+  width: 200px;
+  padding: 0;
+}
+.dropdown-item {
+  color: white;
+}
+.dropdown-item:hover {
+  background-color: rgba(226, 226, 226, 0.342);
+  color: white;
+}
+/* spinner styling */
+.spinner {
+  color: #8ad4ff;  
+  width: 25px;
+  height: 23px;
+  margin-bottom: -100px;
+  display: none;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+Link{
+  text-decoration: none;
+}
+

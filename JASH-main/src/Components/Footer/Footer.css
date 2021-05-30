@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 100px;
+}
+.d-space-around {
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.social-media-p {
+  display: flex;
+  justify-content: space-around;
+}
