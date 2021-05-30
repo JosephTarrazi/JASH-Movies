@@ -21,8 +21,8 @@ Built with Reactjs and SemanticUI CSS
 Clone the Github repository and use npm to install the dependencies
 
 ```
-git clone https://github.com/harkibit/JASH.git
-cd movie-project
+git clone https://github.com/JosephTarrazi/JASH-Movies.git
+cd JASH-main
 npm i
 npm start
 ```
